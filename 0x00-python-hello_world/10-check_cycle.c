@@ -28,5 +28,6 @@ int check_cycle(listint_t *list)
 				}
 			i++;
 			}
+		free(nodes);
 		return (0);
 }
