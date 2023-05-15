@@ -1,2 +1,1 @@
-python project
-Its detailed in import & modules
+import & modules
